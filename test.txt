@@ -1,0 +1,80 @@
+Last login: Thu Oct 30 13:57:40 on ttys001
+Andys-MacAir:~ admin$ pwd
+/Users/admin
+Andys-MacAir:~ admin$ ls
+Desktop		Documents	Downloads	Library		Movies		Music		Pictures	Public
+Andys-MacAir:~ admin$ pwd
+/Users/admin
+Andys-MacAir:~ admin$ ls /a
+ls: /a: No such file or directory
+Andys-MacAir:~ admin$ ls -a
+.			.bash_history		.lesshst		.viminfo		Movies
+..			.bash_profile		.ndenv			Desktop			Music
+.CFUserTextEncoding	.config			.rbenv			Documents		Pictures
+.DS_Store		.gem			.ssh			Downloads		Public
+.Trash			.gitconfig		.subversion		Library
+Andys-MacAir:~ admin$ cd D
+Desktop/   Documents/ Downloads/ 
+Andys-MacAir:~ admin$ cd Documents/
+Andys-MacAir:Documents admin$ ls
+andy-github-study	training-kit
+Andys-MacAir:Documents admin$ cd andy-github-study/
+Andys-MacAir:andy-github-study admin$ ls
+README.md
+Andys-MacAir:andy-github-study admin$ git branch
+* master
+Andys-MacAir:andy-github-study admin$ vim hello.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Hello everyong, this is a test document.
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+~                                                                                                                                      
+-- INSERT --
